@@ -19,3 +19,4 @@ By using the tutorials from Bloc and with help from my mentor, the Bloc Communit
 ![alt text](https://github.com/clintondnicholson/portfolio-kami/blob/master/img/bloc-jams-collection.png "Bloc Jams Collection Page")
 ![alt text](https://github.com/clintondnicholson/portfolio-kami/blob/master/img/bloc-jams-album.png "Bloc Jams Album Page")
 # Conclusion
+As my first build, Bloc Jams was a success in that it helped teach me Javascript and jQuery while helping me understand the process of how to approach coding a project. 
