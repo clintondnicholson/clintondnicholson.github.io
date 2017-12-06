@@ -1,0 +1,14 @@
+---
+layout: post
+title: How It All Started
+---
+
+So it all started when I was tired of driving for Uber full time. Granted I now had more funny stories than I knew what to do with, but I knew driving around drunk people is not what I wanted to do the rest of my life. After serving in the church and non profits, I wanted to do something different. Where I felt most alive, was when I was doing something creative. I loved getting to do video for T Bar M Camps but didn't want to go into the movie making business. I knew I wanted to be able to create something in my future job but I just didn’t know what. That’s when the idea of becoming a graphic designer entered into my head.
+
+I had done some publication and graphic work for the church I worked for before I started to drive for Uber. I really loved doing that. I would search around on Pinterest to be inspired by the creative things people were making that would in turn inspire me to make something really cool. It was after talking with my wife Casie, that I decided this would be the path that I would go down. After researching about how to be graphic designer, I quickly realized that in order to be competitive with others in the field I would need to offer something to be able to stand out among the rest, and I thought I could stand out by knowing how to code.
+
+Now I had no idea about web development. I knew there were such things as web developers and that the web was made up of code but I couldn’t tell you what HTML and CSS were. I had zero experience, but the thought of learning something new excited me.
+
+So in order to get my toes wet, I started learning code on Codecademy and really enjoyed it. When I began to create things via code, it was like a whole new world opened up to me. I felt like I could flex my creative muscle in a whole new way I never knew existed. So after going through a few courses on Codecademy, I decided I wanted to dive into the mystical waters of programming. I started looking at coding schools and what I found was that not only could I make a good living for my family, there was a lot of opportunity in the field. This was really exciting for me.
+
+I began looking at coding schools that could help make my desire to be a developer happen, but I realized there were no options in Baton Rouge. There were many schools in giant metropolitan areas but none in the city I lived in. That is when the idea of doing an online school came into play. Since starting this journey I had secured a job in graphic design, but this also meant that I needed a school that could be flexible, since I couldn’t drop everything and go to a coding school. That’s when I saw an ad for Bloc. After looking into the program at Bloc and talking about it with people that I trust around me, I decided this was the plunge I had been looking for. And it has proven to be exactly the right step I was looking for. 
